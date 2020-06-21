@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{115:function(a){a.exports=JSON.parse('{"allTagsPath":"/dharma-codex-docs/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/dharma-codex-docs/blog/tags/hola"}')}}]);

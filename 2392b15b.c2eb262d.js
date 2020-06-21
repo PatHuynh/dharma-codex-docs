@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{109:function(a){a.exports=JSON.parse('{"allTagsPath":"/dharma-codex-docs/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/dharma-codex-docs/blog/tags/docusaurus"}')}}]);
